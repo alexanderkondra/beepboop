@@ -1,6 +1,6 @@
 body {
-  background: url("../img/bg.jpeg");
-  text-align: center;
+text-align: center;
+background-image: url(https://static.vecteezy.com/system/resources/previews/000/172/264/non_2x/matrix-background-free-vector.jpg);
 }
 
 #result {
@@ -33,4 +33,7 @@ body {
   width: 350px;
   display: block;
   word-wrap: break-word;
+}
+html {
+
 }
