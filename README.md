@@ -17,6 +17,7 @@ Numbers divisible by 3 are replaced with "I'm sorry, Dave. I'm afraid I can't do
 ## Setup/Installation Requirements
 
 Clone repository
+
 Open index.html in Chrome
 
 ## Specifications
